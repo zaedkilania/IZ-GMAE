@@ -120,9 +120,12 @@ section{
     font-size: 8em;
     text-align: center;
 }
+.info{
+    text-align: center;
+}
 .info h3{
  color: brown;
- font-size: 1.2em;
+ font-size: 3em;
  font-weight: 700;
  margin: 10px;
 }
